@@ -60,7 +60,7 @@ Para ejecutar la aplicación, utiliza el siguiente comando:
 
 Cuando la aplicación se esté ejecutando, podrás realizar las siguientes acciones:
 - **Monto**: Ingresa el monto que deseas convertir.
-- **Moneda de origen**: Introduce la moneda de origen (por ejemplo, ```USD```).
+- **Moneda de origen**: Introduce la moneda de origen ( ```USD```, unica moneda de origen por el momento).
 - **Moneda de destino**: Introduce la moneda de destino (por ejemplo, ```EUR```).
 - Haz clic en el botón **Convertir** para obtener el resultado de la conversión.
 
