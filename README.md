@@ -38,7 +38,7 @@ Para ejecutar esta aplicación, asegúrate de tener instalados los siguientes co
 **1. Clonar el repositorio**:
    
    ```bash
-   git clone https://github.com/tu_usuario/currency-converter.git
+   git clone https://github.com/Popeye-04/Currency-Converter-.git
    ```
 
 **2. Navegar al directorio del proyecto**:
